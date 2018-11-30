@@ -1,0 +1,3 @@
+com\google\errorprone\GeneralExceptionCheckTest.class
+com\google\errorprone\testdata\GeneralExceptionCheckPositiveCases.class
+com\google\errorprone\testdata\GeneralExceptionCheckNegativeCases.class
